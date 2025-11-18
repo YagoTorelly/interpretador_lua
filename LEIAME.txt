@@ -1,0 +1,7 @@
+Trabalho – Interpretador MEPA/Lua em Python
+
+Integrantes do Grupo:
+- Yago Torelly de Araujo | 2300743
+- Leonardo Nunes Madureira | 2301599
+- Lucas Seiti Kawaguti Goto | 2301474
+- Cintia Marques Castanho Sae | 2300255

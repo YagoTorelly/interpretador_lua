@@ -1,0 +1,4 @@
+10 idade = 20
+20 anos_futuro = idade + 5
+30 print(idade)
+40 print(anos_futuro)
